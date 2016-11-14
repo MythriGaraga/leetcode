@@ -1,5 +1,8 @@
 /**
- * Created by Mythri on 11/9/16.
+ Author: Mythri Garaga Manjunatha
+ Problem: Longest Palindromic Substring
+ Diffculty: Medium
+ Notes: Given a string s, find the longest palindromic substring in s. You may assume that the maximum length of s is 1000
  */
 public class LongestPalindromicSubstring {
 
