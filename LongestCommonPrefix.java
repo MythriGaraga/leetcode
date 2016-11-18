@@ -1,5 +1,8 @@
 /**
- * Created by Mythri on 11/16/16.
+ * Author: Mythri Garaga Manjunatha
+ * Problem: Longest Common Prefix
+ * Difficulty: Easy
+ * Notes: Write a function to find the longest common prefix string amongst an array of strings
  */
 public class LongestCommonPrefix {
 
